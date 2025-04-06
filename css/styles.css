@@ -34,7 +34,7 @@ body {
     outline: none;
 }
 
-.mailtel ul li a {
+.adress-mailtel {
     color: #2E2F42;
     letter-spacing: 0.02em;
     line-height: 1.5;
@@ -42,8 +42,8 @@ body {
     font-style: normal;
 }
 
-.mailtel ul li a:hover,
-.mailtel ul li a:focus {
+.adress-mailtel:hover,
+.adress-mailtel:focus {
     color: #404bbf;
     outline: none;
 }
