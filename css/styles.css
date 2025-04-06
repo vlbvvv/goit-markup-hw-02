@@ -1,0 +1,87 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+    text-decoration: none;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.071;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.111;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.167;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4D5AE5;
+}
+
+nav a {
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-decoration: none;
+}
+
+nav a:hover,
+nav a:focus {
+    color: #4D5AE5;
+    outline: none;
+}
+
+address ul li a {
+    color: #2E2F42;
+    text-decoration: none;
+    font-style: normal;
+}
+
+address ul li a:hover,
+address ul li a:focus {
+    color: #4D5AE5;
+    outline: none;
+}
+
+.main-button {
+    cursor: pointer;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+footer {
+    background-color: #2E2F42;
+}
+
+footer p {
+    color: #ffffff;
+}
