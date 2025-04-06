@@ -35,12 +35,14 @@ body {
     outline: none;
 }
 
+.adress-nav {
+    font-style: normal;
+}
 .adress-mailtel {
     color: #434455;
     letter-spacing: 0.02em;
     line-height: 1.5;
     text-decoration: none;
-    font-style: normal;
 }
 
 .adress-mailtel:hover,
